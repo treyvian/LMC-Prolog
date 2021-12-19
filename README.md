@@ -5,6 +5,5 @@ The LMC is generally used to teach students, because it models a simple von Neum
 It can be programmed in machine code (albeit in decimal rather than binary) or assembly code.
 
 
-Project work carryed out during my Bachelor degree.
-
+Project work carryed out during my Bachelor degree in Computer Science at the University of Milano-Bicocca.
 
